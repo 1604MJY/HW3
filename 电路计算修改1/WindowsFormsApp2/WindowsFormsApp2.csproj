@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="cacu1.cs" />
     <Compile Include="cacu2.cs" />
+    <Compile Include="cacu3.cs" />
     <Compile Include="circuit.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
